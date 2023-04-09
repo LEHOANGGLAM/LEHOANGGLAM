@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, there. How to reach me: lelam1384@gmail.com.
-
+[![](https://visitcount.itsvg.in/api?id=lelam&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004525996456) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lam-le-cam-hoang-59384a242/) 
