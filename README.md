@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, there
+Hi, there. How to reach me: lelam1384@gmail.com.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ Hi, there
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LEHOANGGLAM&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LEHOANGGLAM&icon=0&color=1450)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Lelam1384@gmail.com) 
